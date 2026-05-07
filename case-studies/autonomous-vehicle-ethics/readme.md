@@ -78,7 +78,4 @@ Autonomous vehicles show that even when AI has clear benefits, it still raises q
 ## 🧠 Key Learning
 AI systems must balance performance with ethics, safety, and transparency to be truly effective in real-world applications.
 
----
 
-## 🖼️ Diagram
-![Autonomous Vehicle AI System](../assets/diagrams/autonomous-ai.png)

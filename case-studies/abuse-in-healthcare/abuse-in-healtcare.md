@@ -1,33 +1,33 @@
-# 🏥 Case Study: AI in Sepsis Detection
+# 🚨 Case Study: Abuse of AI in Healthcare
 
 ## 📌 Problem
-Sepsis is difficult to detect early because symptoms are subtle and often overlooked.
+AI systems in healthcare can cause harm when poorly implemented, especially in critical environments like hospitals.
 
 ---
 
-## ⚙️ AI Solution
-AI models analyze patient data such as vital signs and lab results to identify early warning signs of sepsis.
+## ⚙️ AI System
+AI tools monitor patient data to detect conditions like sepsis early.
 
 ---
 
-## 📊 Results
-- Earlier detection of critical conditions  
-- Faster treatment response  
-- Improved patient outcomes  
+## 📊 Issues Observed
+- Alert fatigue among healthcare workers  
+- Bias in decision-making  
+- Over-reliance on AI systems  
 
 ---
 
 ## ⚠️ Challenges
-- Alert fatigue due to false positives  
-- Data inconsistency in hospital systems  
-- Bias in training data  
+- Lack of transparency  
+- Data bias  
+- Workflow disruption  
 
 ---
 
 ## 💭 Reflection
-I learned that even life-saving AI systems can create problems if not carefully implemented. The balance between sensitivity and accuracy is critical.
+This case study changed how I view AI. It’s not always beneficial—if misused, it can create serious risks.
 
 ---
 
 ## 🧠 Key Learning
-AI must be integrated carefully into workflows to be effective in real-world environments.
+Responsible AI design is just as important as technical performance.

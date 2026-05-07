@@ -114,6 +114,6 @@ This course helped me understand how AI actually works in real systems. It’s n
 
 ## 📬 Contact
 
-- GitHub: https://github.com/cwin3/Erwin_Cheng_AI_Portfolio_AI_App/main/
+- GitHub: https://github.com/cwin3/Erwin_Cheng_AI_Portfolio_AI_App/main
 - Email: egr.cheng@gmail.com
 - LinkedIn: https://www.linkedin.com/in/erwin-cheng-050140164/

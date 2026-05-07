@@ -1,114 +1,67 @@
 # Erwin_Cheng_AI_Portfolio_AI_App
 # 🤖 AI Applications Portfolio  
-**Erwin Cheng | ITAI 2372**
+**Erwin Cheng**
 
 ![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue)
-![ML](https://img.shields.io/badge/Skills-Machine%20Learning-green)
-![NLP](https://img.shields.io/badge/Tech-NLP-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Portfolio](https://img.shields.io/badge/Type-Case%20Study%20%2B%20Reflection-green)
 
 ---
 
-## 👋 About Me
+## 👋 Overview
 
-I built this portfolio to showcase how artificial intelligence is applied in real-world industries — not just the theory, but how it actually solves problems.
+This portfolio presents my learning journey in artificial intelligence through a combination of:
 
-My work focuses on:
-- Real-world AI use cases  
-- System design thinking  
-- Ethical and societal impact  
+- 💭 Reflections  
+- 🔍 Case Studies  
+- 🧠 Key Learnings  
 
----
-
-## 🧠 Skills & Tools
-
-- Machine Learning (Supervised Learning, Prediction Models)
-- Natural Language Processing (NLP)
-- Computer Vision
-- Data Analysis & Visualization
-- AI Ethics & Responsible AI
+The goal is to understand how AI works in real-world systems, not just in theory.
 
 ---
 
-## 🚀 Featured Projects
+## 💭 Reflections
+Insights on how AI impacts different industries:
 
-### 🏥 AI Sepsis Detection System  
-Early detection of life-threatening conditions using machine learning.
+- Healthcare & Agriculture  
+- Smart Cities & Transportation  
+- Retail Industry  
+- AI + Blockchain  
+- AI Trends  
 
-📌 Key Highlights:
-- Predictive modeling from patient data  
-- Risk scoring system  
-- Ethical concerns (bias, alert fatigue)
-
-👉 [View Project](projects/sepsis-detection-ai)
-
----
-
-### 💳 Fraud Detection with AI  
-Real-time transaction monitoring using ML.
-
-📌 Key Highlights:
-- Reduced false positives  
-- Pattern recognition  
-- Real-time decision systems  
-
-👉 [View Project](projects/fraud-detection-ai)
+👉 `/reflections`
 
 ---
 
-### 🏭 Smart Manufacturing System  
-AI-driven automation for quality control and efficiency.
+## 🔍 Case Studies
+In-depth analysis of real-world AI applications:
 
-📌 Key Highlights:
-- Predictive maintenance  
-- Computer vision inspection  
-- Waste reduction system  
+- Sepsis Detection in Healthcare  
+- Fraud Detection in Finance  
+- AI in Government Systems  
+- Smart Manufacturing  
+- AGI in Manufacturing  
+- Abuse of AI in Healthcare  
 
-👉 [View Project](projects/smart-manufacturing-ai)
-
----
-
-### 🛒 AI in Retail  
-Personalization and intelligent inventory systems.
-
-👉 [View Project](projects/retail-ai-analysis)
+👉 `/case-studies`
 
 ---
 
-### 🔗 AI + Blockchain  
-Secure, transparent AI data systems.
+## 🧠 Key Learnings
 
-👉 [View Project](projects/blockchain-ai)
+- AI depends heavily on data quality  
+- Real-world systems are complex and imperfect  
+- Ethics and bias are critical considerations  
+- AI supports human decision-making, not replaces it  
 
----
-
-### 🌆 Smart Cities & Transportation  
-AI for traffic optimization and smart infrastructure.
-
-👉 [View Project](projects/smart-city-ai)
-
----
-
-## 📚 What I Learned
-
-- AI is only as powerful as the data behind it  
-- Implementation is harder than theory  
-- Ethics (bias, privacy) is a real challenge  
-- AI works best alongside humans, not replacing them  
-
----
-
-## 💭 Reflection
-
-This course helped me understand how AI actually works in real systems. It’s not just smart algorithms — it’s data, design, and real-world tradeoffs.
+👉 `/learnings`
 
 ---
 
 ## 🚀 Future Goals
 
-- Apply AI in **food production systems** (reduce waste, optimize processes)  
-- Build tools that improve accessibility for **people with disabilities**  
-- Continue learning deep learning and deployment  
+- Apply AI in food production systems  
+- Build AI tools that support people with disabilities  
+- Continue learning real-world AI deployment  
 
 ---
 

@@ -19,32 +19,34 @@ The goal is to understand how AI works in real-world systems, not just in theory
 
 ---
 
-## 💭 Reflections
-Insights on how AI impacts different industries:
+💭 Reflections
 
-- Healthcare & Agriculture  
-- Smart Cities & Transportation  
-- Retail Industry  
-- AI + Blockchain  
-- AI Trends & Future
-- AI in Finance
-- Sentiment Tracker
+Insights on how AI impacts different industries, focusing on real-world applications, challenges, and how my understanding evolved:
 
-👉 `/reflections`
+🏥 Healthcare & Agriculture – Predictive systems and data-driven decision-making
+🌆 Smart Cities & Transportation – Real-time optimization of traffic and urban systems
+🛒 Retail Industry – Personalization, recommendations, and inventory optimization
+🔗 AI + Blockchain – Data integrity, transparency, and trust in AI systems
+🤖 AI Trends & Future – Emerging technologies and the direction of AI development
+💳 AI in Finance – Fraud detection, risk analysis, and automation
+📊 Sentiment Tracker – Using NLP to analyze financial news and market sentiment
+
+👉 Explore all reflections in /reflections
 
 ---
 
-## 🔍 Case Studies
-In-depth analysis of real-world AI applications:
+🔍 Case Studies
 
-- Sepsis Detection in Healthcare  
-- Fraud Detection in Finance  
-- AI in Government Systems  
-- Smart Manufacturing  
-- AGI in Manufacturing  
-- Abuse of AI in Healthcare  
+In-depth analysis of real-world AI systems, including their impact, benefits, and limitations:
 
-👉 `/case-studies`
+🏥 Sepsis Detection in Healthcare – Early detection systems and implementation challenges
+💳 Fraud Detection in Finance – Machine learning for real-time transaction monitoring
+🏛️ AI in Government Systems – Improving efficiency and decision-making at scale
+🏭 Smart Manufacturing – Predictive maintenance and automation
+🤖 AGI in Manufacturing – Future potential of adaptive AI systems
+🚨 Abuse of AI in Healthcare – Risks, bias, and unintended consequences
+
+👉 Explore all case studies in /case-studies
 
 ---
 

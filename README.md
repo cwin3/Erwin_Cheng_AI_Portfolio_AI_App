@@ -26,7 +26,9 @@ Insights on how AI impacts different industries:
 - Smart Cities & Transportation  
 - Retail Industry  
 - AI + Blockchain  
-- AI Trends  
+- AI Trends & Future
+- AI in Finance
+- Sentiment Tracker
 
 👉 `/reflections`
 
